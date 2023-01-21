@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-15,
+				45
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-5,
+				43
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-69,
+				81
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-2,
+				88
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				-13,
+				39
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-5,
+				43
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-56,
+				77
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-3,
+				89
 			],
 			"loop": false,
 			"fps": 24,
@@ -102,75 +102,53 @@
 		{
 			"offsets": [
 				-3,
-				5
+				21
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "BF dies"
 		},
 		{
 			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				0
+				-3,
+				21
 			],
 			"loop": true,
 			"fps": 24,
-			"anim": "scared",
+			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF idle shaking"
+			"name": "BF die loop"
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				-3,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF retry confirm"
+		},
+		{
+			"offsets": [
+				10,
+				34
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "dodge",
 			"indices": [],
 			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf-alt",
 	"position": [
-		0,
-		350
+		-160,
+		230
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -184,5 +162,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.8
 }

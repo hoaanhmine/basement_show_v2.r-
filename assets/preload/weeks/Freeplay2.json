@@ -13,7 +13,7 @@
 	"hideStoryMode": true,
 	"songs": [
 		[
-			"kaboom",
+			"none-of-all",
 			"icon",
 			[
 				255,
@@ -22,7 +22,7 @@
 			]
 		],
 		[
-			"triple-trouble",
+			"jam",
 			"icon",
 			[
 				255,
@@ -31,7 +31,7 @@
 			]
 		],
 		[
-			"meme-mania",
+			"soul-chance",
 			"icon",
 			[
 				255,
@@ -40,7 +40,7 @@
 			]
 		],
 		[
-			"meme-mania-old",
+			"Doomsday",
 			"icon",
 			[
 				255,
@@ -49,7 +49,7 @@
 			]
 		],
 		[
-			"mucho-mouse",
+			"hydrophobia",
 			"icon",
 			[
 				255,
@@ -58,7 +58,7 @@
 			]
 		],
 		[
-			"come-for-revenge",
+			"desire-or-despair",
 			"icon",
 			[
 				255,
